@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently a software engineer at Microsoft working on the Semantic Machines team.
+- 🔭 I’m currently a software engineer at Coinbase.
 <!--
 **spryor/spryor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
