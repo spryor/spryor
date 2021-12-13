@@ -1,5 +1,4 @@
-### Hi there 👋
-- 🔭 I’m currently a software engineer at Coinbase.
+### Hi there
 <!--
 **spryor/spryor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
